@@ -1,0 +1,18 @@
+.tableborder{
+    text-align: center;
+}
+
+.heading{
+    border: 1px solid black;
+    margin:10px
+}
+
+.headingin{
+    margin:10px;
+    border: 1px solid black;
+}
+
+.datain{
+    margin:10px;
+    border: 1px solid black;
+}
