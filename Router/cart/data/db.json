@@ -1,0 +1,45 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Butterfly Chair",
+        "type": "chair",
+        
+        "price":1200,
+        "image": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-lercolani-resized_1024x1024.jpg?v=1633961622&auto=format&w=430&"
+      },
+      {
+        "id": 2,
+        "name": "Sofa",
+        "type": "sofa",
+        
+        "price": 38000,
+        "image": "https://hausimg.imgix.net/s/files/1/0053/2792/products/haus-london-hay-quilton_1024x1024.jpg?v=1629325266&auto=format&w=430&"
+      },
+      {
+        "id": 3,
+        "name": "Solo bed",
+        "type": "bed",
+        
+        "price": 5400,
+        "image": "https://hausimg.imgix.net/s/files/1/0053/2792/products/787SoloBedbyNeri_HuinDanishoiledwalnutandZero004fabric-whitebkgrnd_1024x1024.jpg?v=1644259892&auto=format&w=430&"
+      },
+      {
+        "id": 4,
+        "name": "Dining Table",
+        "type": "dining table",
+        
+        "price": 10000,
+        "image": "https://hausimg.imgix.net/s/files/1/0053/2792/products/Pyramid_Table_02_L190_W85_Frame_black_Top_oak_smoked_oiled_1024x1024.jpg?v=1615475454&auto=format&w=430&"
+      },
+      {
+        "id": 5,
+        "name": "Stool",
+        "type": "stool",
+        
+        "price": 2500,
+        "image": "https://hausimg.imgix.net/s/files/1/0053/2792/products/1930355_Georg_Bar_Stool_Oak_Low_01_1024x1024.jpg?v=1616235159&auto=format&w=430&"
+      }
+    ]
+    
+  }
